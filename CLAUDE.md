@@ -66,22 +66,27 @@ Source: https://claude.com/resources/courses (18 courses, June 2026). The site d
 not publish an official order, so this is a suggested **basic → advanced** path. Each
 course becomes a top-level folder (slug form) with `notes/` and `exercises/` inside.
 
-Track the user. As of now they started **AI Capabilities and Limitations**. Update the
-"Status" column as courses are finished.
+Track the user. As of now they finished **Introduction to Agent Skills** and are
+working through **Claude 101** and **Claude Code 101**. Update the "Status" column as
+courses are finished.
+
+Note: Agent Skills notes live in `claude-code-101/notes/skills.md` (filed there
+because skills relate to Claude Code), not in a dedicated `introduction-to-agent-skills/`
+folder.
 
 ### Stage 0 — Orientation (start here)
 | Course | Why | Status |
 |--------|-----|--------|
-| [Claude 101](https://anthropic.skilljar.com/claude-101) | What Claude is, basic chat use | ☐ |
+| [Claude 101](https://anthropic.skilljar.com/claude-101) | What Claude is, basic chat use | ◐ in progress |
 | [AI Capabilities and Limitations](https://anthropic.skilljar.com/ai-capabilities-and-limitations) | How LLMs work + their limits | ◐ in progress |
 | [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) | Mental models (the "4D Framework") | ☐ |
 
 ### Stage 1 — Foundations
 | Course | Why | Status |
 |--------|-----|--------|
-| [Claude Code 101](https://anthropic.skilljar.com/claude-code-101) | Intro to Claude Code for dev tasks | ☐ |
+| [Claude Code 101](https://anthropic.skilljar.com/claude-code-101) | Intro to Claude Code for dev tasks | ◐ in progress |
 | [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol) | MCP basics (how tools connect to Claude) | ☐ |
-| [Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills) | Build and add agent skills | ☐ |
+| [Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills) | Build and add agent skills | ✅ done |
 | [Introduction to Subagents](https://anthropic.skilljar.com/introduction-to-subagents) | Use subagents to split work | ☐ |
 | [Introduction to Claude Cowork](https://anthropic.skilljar.com/introduction-to-claude-cowork) | Collaborative Claude features | ☐ |
 
