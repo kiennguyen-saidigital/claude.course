@@ -85,6 +85,7 @@ folder.
 | Course | Why | Status |
 |--------|-----|--------|
 | [Claude Code 101](https://anthropic.skilljar.com/claude-code-101) | Intro to Claude Code for dev tasks | ◐ in progress |
+| [Claude Platform 101](https://anthropic.skilljar.com/claude-platform-101) | Overview of the Claude platform (API, tooling, surfaces) | ◐ in progress |
 | [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol) | MCP basics (how tools connect to Claude) | ☐ |
 | [Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills) | Build and add agent skills | ✅ done |
 | [Introduction to Subagents](https://anthropic.skilljar.com/introduction-to-subagents) | Use subagents to split work | ☐ |
