@@ -1,0 +1,13 @@
+{
+  "name": "weather-tools",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "v1": "node v1-manual-loop.js",
+    "v2": "node v2-tool-runner.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.68.0"
+  }
+}
